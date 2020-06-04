@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/fddaeb019a.js" crossorigin="anonymous"></script>
+    <title>{{title}}</title>
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ownNav">
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item login">
+        <a class="nav-link" href="/">Main</a>
+      </li>
+      <li  class="nav-item register">
+        <a class="nav-link" href="/leaveCompany">Leave Company</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<div class="container">
+<h1>Welcome {{data.name}}</h1>
+
+<h2>Currently you're registed with {{data.company_name}}</h2>
+
+<div style="margin-top:5em;">
+    <h3>Personal details</h3>
+    <div>
+        <ul>
+            <li>Email : {{data.email}}</li>
+            <li>City : {{data.city}}</li>
+            <li>Mobile : {{data.mobile}}</li>
+        </ul>
+    </div>
+</div>
+</div>
+    
+</body>
+</html>
