@@ -13,9 +13,9 @@ Bitcoin has grown rapidly and spread far in a relatively short period of time. A
 However, there are issues with bitcoins such as hackers breaking into accounts, high volatility of bitcoins, and long transaction delays. Elsewhere, particularly people in third world countries find Bitcoins as a reliable channel for transacting money bypassing pesky intermediaries.
 
 
-What is IFTTT?
-If This Then That, also known as IFTTT is a freeware web-based service that creates chains of simple conditional statements, called applets.
-An applet is triggered by changes that occur within other web services such as Gmail, Facebook, Telegram, Instagram, or Pinterest.
+What is IFTTT?:
+   If This Then That, also known as IFTTT is a freeware web-based service that creates chains of simple conditional statements, called applets.
+   An applet is triggered by changes that occur within other web services such as Gmail, Facebook, Telegram, Instagram, or Pinterest.
 
 What is Telegram?
 Telegram is a cloud-based instant messaging and voice over IP service. Telegram client apps are available for Android, iOS, Windows Phone, Windows NT, macOS and Linux. Users can send messages and exchange photos, videos, stickers, audio and files of any type.
